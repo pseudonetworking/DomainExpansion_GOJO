@@ -1,5 +1,7 @@
 # DomainExpansion_GOJO
-A super small terminal based minigame written in C. With inspiration drawn from Gege Akutami's Jujutsu Kaisen.  Experiments with two different types of crashes, one being a segmentation fault in the program and the other being a more devastating OS based crash via triggering system OOM
+A super small terminal based minigame written in C using the standard libraries. 
+With inspiration drawn from Gege Akutami's Jujutsu Kaisen.  
+Experiments with two different types of crashes, one being a segmentation fault in the program and the other being a more devastating OS based crash via triggering system OOM.
 
 Feel free to tweak any of the code to your liking! This was created as a project for myself while learning C. It took me approximately 8 hours across two days to complete (if you can even call this completed as of v1.2).
 
